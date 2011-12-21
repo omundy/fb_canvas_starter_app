@@ -1,0 +1,11 @@
+<?php
+
+// Rename this file fb_config.php and add your information below
+
+//set facebook application id, secret key and api key
+$fbconfig['appid'] 			= "YOUR_APP_ID";
+//$fbconfig['api'] 			= "YOUR_APP_KEY"; // depreciated
+$fbconfig['secret'] 		= "YOUR_APP_SECRET";
+$fbconfig['canvas_page'] 	= "http://apps.facebook.com/your_application/";
+
+?>
