@@ -29,6 +29,7 @@ echo '
 		ol { padding-left:20px; } 
 		li,textarea { margin:4px 0; } 
 		textarea.showdata { width:700px; height:115px } 
+		textarea.showdata { width:700px; height:115px } 		
 	</style>
 	
 	<div>
