@@ -23,18 +23,17 @@
 
 echo '
 	<style> 
-		div { font:0.8em/1.3em Arial, sans-serif; } 
+		div { font:0.75em/1.5em "Lucida Grande", Verdana, Arial, Helvetica, sans-serif } 
 		h3 { margin-top:20px; }
 		h3 span { font-weight: normal; font-size: 0.8em; margin-left:10px; }
 		ol { padding-left:20px; } 
 		li,textarea { margin:4px 0; } 
-		textarea.showdata { width:700px; height:115px } 
 		textarea.showdata { width:700px; height:115px } 		
 	</style>
 	
 	<div>
 		<h3>Canvas Starter App</h3>
-		<em>This is an example of a simple Facebook canvas application. This code was originally demoed during the <a href="http://owenmundy.com/blog/2011/05/freedom-for-our-files-code-and-slides/" target="_blank">Freedom for Our Files</a> Facebook API workshop at the 2011 Art Meets Radical Openness festival in Linz, Austria. View the <a href="https://github.com/omundy/fb_canvas_starter_app" target="_blank">source code</a></em>';
+		<em>This is an example of a simple Facebook canvas application. This code was originally demoed during the <a href="http://owenmundy.com/blog/2011/05/freedom-for-our-files-code-and-slides/" target="_blank">Freedom for Our Files</a> Facebook API workshop at the 2011 Art Meets Radical Openness festival in Linz, Austria. View the <a href="https://github.com/omundy/fb_canvas_starter_app" target="_blank">source code</a> on github.</em>';
 
 
 /* AUTHORIZE APPLICATION
